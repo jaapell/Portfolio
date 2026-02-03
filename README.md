@@ -18,6 +18,9 @@ Data Manager @ Indiana University School of Medicine Department of Biostatistics
 
 Research Specialist @ Regenstrief Institute - Indiana University School of Medicine, Indianapolis
 
+### Publications
+Weiner M, Weaver J, Gowan T, Baird SA, Huffman M, Dexter P, Bali V, Schelfhout J, Griffith A, Pell J, Doshi I, Talib T. Health-related experiences of adults with chronic cough: Empirical research mixed methods. Nurs Open. 2023 Jun;10(6):4055-4063. doi: 10.1002/nop2.1665. Epub 2023 Feb 23. PMID: 36815576; PMCID: PMC10170930.
+
 ### Education
 MS in Bioinformatics from Indiana University
 
