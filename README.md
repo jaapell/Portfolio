@@ -3,7 +3,7 @@ Hello and welcome! My name is Jacob Pell, and this is a portfolio of my work for
 
 ## Professional Highlights
 
-#### Primary Technical Skills: Python, R, SQL
+#### Primary Technical Skills: Python, R, SQL, HTML5/CSS3, JavaScript, PHP
 
 ### Experience
 Data Scientist - Health Systems Specialist @ United States Department of Veterans Affairs
