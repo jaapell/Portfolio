@@ -2,6 +2,9 @@
 Hello and welcome! My name is Jacob Pell, and this is a portfolio of my work for your reference. I am a freelance Data Scientist,  consultant, and mentor looking to improve processes with math! My experience encompases statistical data analysis, reporting solutions, artificial intelligence & machine learning, and end-to-end data science pipeline architecture consultation. My work was used in various United States Congressional committees, scientific publications, and by civil servants making data-based decisions in the field. I pride myself on creating thorough, well-communicated products. Data speaks volumes if you know how to listen, and I will be your guide to extracting insight and implementing its utility through data-driven decision making. 
 
 ## Professional Highlights
+
+#### Primary Technical Skills: Python, R, SQL
+
 ### Experience
 Data Scientist - Health Systems Specialist @ United States Department of Veterans Affairs
 - Headed biostatistics team in the transition from VistA application reporting to Cerner EHR.
