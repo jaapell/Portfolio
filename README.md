@@ -4,6 +4,7 @@ Hello and welcome! My name is Jacob Pell, and this is a portfolio of my work for
 ## Professional Highlights
 ### Experience
 Data Scientist - Health Systems Specialist @ United States Department of Veterans Affairs
+- Headed biostatistics team in the transition from VistA application reporting to Cerner EHR.
 - Developed and maintained algorithms for determining relative risk of post-operative mortality and morbidity events in VA operating rooms. Report used to suggest patient fitness for any recommended surgical intervention.
 - Developed and maintained algorithms for assessing surgeon and department-level risk of post-operative mortality and morbidity events. Report used to determine necessity of educational intervention by clinical regulators.
 - Developed and maintained regular reporting pipelines for Executive and Legislative branch leadership.
