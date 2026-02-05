@@ -32,4 +32,4 @@ BS in Biology from Purdue University
 ## Work Examples
 |            |                     |
 | ---------- | ------------------- |
-| [![BRFSS Logo](Img/brfss_logo.jpeg)](Portfolio/Examples/Food_Housing_Insecurity.md) | **[A Glimpse of Food and Housing Insecurity within the United States: Summary of Behavioral Risk Factor Surveillance System Survey 2017 - Food and Housing Data](Portfolio/Examples/Food_Housing_Insecurity.md)** |
+| [![BRFSS Logo](Img/brfss_logo.jpeg)](Examples/Food_Housing_Insecurity.md) | **[A Glimpse of Food and Housing Insecurity within the United States: Summary of Behavioral Risk Factor Surveillance System Survey 2017 - Food and Housing Data](Examples/Food_Housing_Insecurity.md)** |
