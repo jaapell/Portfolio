@@ -44,3 +44,30 @@ Figure 3 shows the percentage of people who report having "poor or fair" general
 ##### Figure 3
 ![Figure 3](Img/FHI/plot3v4.jpeg)
 
+### References
+
+1. USDA ERS - Key Statistics &amp; Graphics. (n.d.). Retrieved April 4, 2018, from
+https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/key-
+statistics-graphics.aspx
+2. USDA ERS - Key Statistics &amp; Graphics. (n.d.). Retrieved April 4, 2018, from
+https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/key-
+statistics-graphics.aspx
+3. Stahre, M., VanEenwyk, J., Siegel, P., & Njai, R. (2015). Housing Insecurity and the
+Association With Health Outcomes and Unhealthy Behaviors, Washington State, 2011.
+Preventing Chronic Disease, <
+4. Charkhchi, P., Fazeli Dehkordy, S., & Carlos, R. C. (2018). Housing and Food Insecurity,
+Care Access, and Health Status Among the Chronically Ill: An Analysis of the Behavioral
+Risk Factor Surveillance System. Journal of General Internal Medicine.
+https://doi.org/10.1007/s11606-017-4255-z
+5. Gundersen, C., & Ziliak, J. P. (2015). Food Insecurity And Health Outcomes. Health
+Affairs (Project Hope), 34(11), 1830–1839. https://doi.org/10.1377/hlthaff.2015.0645
+6. CDC - BRFSS. (n.d.). Retrieved April 8, 2018, from https://www.cdc.gov/brfss/
+7. CDC. (2015). Behavioral Risk Factor Surveillance System Weighting BRFSS Data
+Introduction: Weighting Rationale. Retrieved from
+https://www.cdc.gov/brfss/annual_data/2015/pdf/weighting_the-
+data_webpage_content.pdf
+8. The Centers for Medicare & Medicaid Services. A framework for Medicaid programs to
+address social determinants of health: food insecurity and housing instability. Final
+Report. The National Quality Forum. December 2017. Pdf. Retrieved from:
+http://www.qualityforum.org/Publications/2017/12/Food_Insecurity_and_Housing_Inst
+ability_Final_Report.aspx
