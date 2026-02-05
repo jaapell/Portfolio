@@ -23,6 +23,7 @@ While the main survey asks respondents about general and specific health informa
 your general health is:” (Excellent, Very Good, Good, Fair, Poor, Don’t Know/Not Sure and Refused). These response options were grouped and reduced to three categories for ease of analysis: poor or fair health, good health, and very good or excellent health. Of the states questioned, average response rates ranged from 32.8% to 64.1% with a median of 46.3%. 
 
 Target question response rates from the 12 sample states: 
+
 | Survey Question | Number of Responses |
 | --- | --- |
 | “Was there a time when you were not able to pay your mortgage, rent or utility bills?” | 88,249 |
